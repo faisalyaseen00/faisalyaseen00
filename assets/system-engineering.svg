@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 600">
+<defs><linearGradient id="s" x1="0" x2="1"><stop stop-color="#38bdf8"/><stop offset="1" stop-color="#a78bfa"/></linearGradient></defs>
+<rect width="900" height="600" rx="20" fill="#080d18" stroke="#1e293b"/>
+<g font-family="Arial,Helvetica,sans-serif" text-anchor="middle">
+ <g fill="#0f172a" stroke="#334155">
+  <rect x="300" y="22" width="300" height="55" rx="10"/><rect x="270" y="105" width="360" height="55" rx="10"/>
+  <rect x="280" y="188" width="340" height="55" rx="10"/><rect x="270" y="271" width="360" height="55" rx="10"/>
+  <rect x="270" y="354" width="360" height="55" rx="10"/><rect x="270" y="437" width="360" height="55" rx="10"/>
+  <rect x="245" y="520" width="410" height="55" rx="10"/>
+ </g>
+ <g fill="#f8fafc" font-size="17" font-weight="700">
+  <text x="450" y="57">PROBLEM</text><text x="450" y="140">SYSTEM DESIGN</text>
+  <text x="450" y="223">AI / ML MODELS</text><text x="450" y="306">ORCHESTRATION</text>
+  <text x="450" y="389">KNOWLEDGE / RAG</text><text x="450" y="472">TOOLS / APIs</text>
+  <text x="450" y="555">DECISION / ACT → SECURITY / GOVERNANCE</text>
+ </g>
+</g>
+<g stroke="url(#s)" stroke-width="2" fill="none">
+ <path d="M450 77V105M450 160V188M450 243V271M450 326V354M450 409V437M450 492V520"/>
+</g>
+</svg>

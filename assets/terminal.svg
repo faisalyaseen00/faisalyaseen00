@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 190">
+<rect width="900" height="190" rx="16" fill="#080d18" stroke="#1e293b"/>
+<circle cx="24" cy="24" r="6" fill="#64748b"/><circle cx="44" cy="24" r="6" fill="#64748b"/><circle cx="64" cy="24" r="6" fill="#64748b"/>
+<g font-family="monospace" font-size="14">
+<text x="28" y="62" fill="#38bdf8">$ whoami</text>
+<text x="28" y="86" fill="#e2e8f0">faisal-yaseen :: ai-cyber-systems-engineer</text>
+<text x="28" y="118" fill="#38bdf8">$ status</text>
+<text x="28" y="142" fill="#a7f3d0">ONLINE  |  BUILDING  |  LEARNING  |  SHIPPING</text>
+<text x="28" y="174" fill="#64748b">agentic-ai • security • privacy • vision</text>
+</g>
+</svg>

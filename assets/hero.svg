@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 330">
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+    <stop offset="0%" stop-color="#070b14"/>
+    <stop offset="55%" stop-color="#0f172a"/>
+    <stop offset="100%" stop-color="#111827"/>
+  </linearGradient>
+  <linearGradient id="line" x1="0" y1="0" x2="1" y2="0">
+    <stop offset="0%" stop-color="#38bdf8"/>
+    <stop offset="50%" stop-color="#a78bfa"/>
+    <stop offset="100%" stop-color="#22d3ee"/>
+  </linearGradient>
+</defs>
+<rect width="1200" height="330" rx="24" fill="url(#bg)"/>
+<g opacity=".16" stroke="#94a3b8" stroke-width="1">
+  <path d="M0 70H1200M0 140H1200M0 210H1200M0 280H1200"/>
+  <path d="M80 0V330M180 0V330M280 0V330M380 0V330M480 0V330M580 0V330M680 0V330M780 0V330M880 0V330M980 0V330M1080 0V330"/>
+</g>
+<g fill="none" stroke="url(#line)" stroke-width="2" opacity=".65">
+  <path d="M55 245 C180 180 170 85 310 95 S470 260 600 160 S780 70 900 115 S1060 220 1145 82"/>
+  <path d="M60 275 C190 235 255 260 350 185 S500 80 625 110 S760 260 900 205 S1040 130 1140 170" opacity=".35"/>
+</g>
+<g fill="#38bdf8">
+  <circle cx="310" cy="95" r="4"/><circle cx="600" cy="160" r="4"/><circle cx="900" cy="115" r="4"/>
+</g>
+<text x="600" y="120" text-anchor="middle" fill="#f8fafc" font-family="Arial,Helvetica,sans-serif" font-size="52" font-weight="800" letter-spacing="6">FAISAL YASEEN</text>
+<text x="600" y="166" text-anchor="middle" fill="#cbd5e1" font-family="Arial,Helvetica,sans-serif" font-size="19" letter-spacing="3">AI ENGINEERING  •  CYBERSECURITY  •  SYSTEMS</text>
+<rect x="390" y="196" width="420" height="2" rx="1" fill="url(#line)"/>
+<text x="600" y="232" text-anchor="middle" fill="#94a3b8" font-family="monospace" font-size="15">BUILDING INTELLIGENT SYSTEMS THAT REASON, RETRIEVE &amp; ACT</text>
+<text x="600" y="278" text-anchor="middle" fill="#64748b" font-family="monospace" font-size="12">AGENTIC AI  /  AI SECURITY  /  PRIVACY ENGINEERING  /  COMPUTER VISION</text>
+</svg>
