@@ -1,4 +1,3 @@
-**faisalyaseen00/faisalyaseen00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 <div align="center">
 
 <img src="./assets/hero.svg" alt="Faisal Yaseen — AI, Cybersecurity & Systems Engineering" width="100%"/>
